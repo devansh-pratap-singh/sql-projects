@@ -1,0 +1,37 @@
+01. How many customer records are in the dataset?
+2240
+
+02. How many customers accepted each of the five marketing campaigns?
+"accepted_cmp1"	144
+"accepted_cmp2"	30
+"accepted_cmp3"	163
+"accepted_cmp4"	167
+"accepted_cmp5"	163
+
+03. What is the overall acceptance rate across all marketing campaigns?
+20.6696428571428571
+
+04. How many customers belong to each education level?
+"Graduation"	1127
+"PhD"			486
+"Master"		370
+"2n Cycle"		203
+"Basic"			54
+
+05. What is the average income of customers who accepted the most recent campaign?
+60209.675675675676
+
+06. Which purchase channel had the highest number of purchases?
+"Store"		12970
+"Web"		9150
+"Catalog"	5963
+"Deals"		5208
+
+07. How many customers visited the website more than five times in the last month?
+1170
+
+08. What is the average number of days since the last purchase across all customers?
+49.1093750000000000
+
+09. How many customers made at least one purchase using a discount?
+2194
