@@ -1,0 +1,44 @@
+01. How many total rows (sales records) are in the dataset?
+128975
+
+02. What is the total revenue generated across all sales?
+70288835.00
+
+03. Which product category had the highest total quantity sold?
+"Set"	42185
+
+04. What is the average sales amount per transaction?
+648.9717749381393803
+
+05. How many unique SKUs were sold?
+7107
+
+06. What are the top 5 most sold SKUs based on quantity?
+"JNE3797-KR-L"	623
+"JNE3797-KR-M"	537
+"JNE3797-KR-S"	466
+"JNE3405-KR-L"	450
+"J0230-SKD-M"	433
+
+07. Which month had the highest total sales revenue?
+"2022-04"	25669247.00
+
+08. How many sales were B2B transactions vs non-B2B?
+false	107745
+true	789
+
+09. Which fulfilment method was used most frequently?
+"Amazon"	78227
+
+10. How many sales were made for each product size?
+"M"		18973
+"L"		18679
+"XL"	17728
+"XXL"	15467
+"S"		14231
+"3XL"	12753
+"XS"	9158
+"6XL"	662
+"5XL"	484
+"4XL"	377
+"Free"	349
